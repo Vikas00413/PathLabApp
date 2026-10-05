@@ -125,12 +125,5 @@ python main.py
 
 ---
 
-## Author
-
-Built by the project author after a real booking error. Connect on LinkedIn to discuss the idea.
 
 [![Watch the demo](https://github.com/Vikas00413/PathLabApp/blob/main/final_lab_app.gif)](https://github.com/Vikas00413/PathLabApp/blob/main/final_lab_app.mov)
-
-## License
-
-Add a license of your choice (for example, MIT).
